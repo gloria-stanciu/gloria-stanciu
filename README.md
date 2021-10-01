@@ -1,6 +1,6 @@
-# Hi there, Gloria here!👋
+### Hi there, Gloria here!👋
 
-### A few things about me to get to know me.
+#### A few things about me to get to know me. 
 
 > 👩🏻‍💻 I am a *Software Engineer*,
 > 
@@ -12,7 +12,7 @@
 > 
 > 📖 Self-learner.
 
-### *"Show me your dev stack and I will tell who you are"*
+#### *"Show me your dev stack and I will tell who you are"*
  
 > 💻 Always enjoy working with: *NodeJS & React*,
 > 
@@ -22,7 +22,7 @@
 > 
 > ✍🏻 Currently learning: *VueJS and Web design*.
 
-### Another thing, I...
+#### Another thing, I...
 > 👩🏻‍🍳 Enjoy cooking,
 > 
 > ☕ Never say no to coffee,
