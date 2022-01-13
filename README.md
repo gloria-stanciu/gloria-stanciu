@@ -20,7 +20,7 @@
 > 
 > ➕ Familiar with these too: *Ruby, Ruby on Rails, Docker, MongoDB*,
 > 
-> ✍🏻 Currently learning: *VueJS and Web design*.
+> ✍🏻 Currently learning: *Web design, NextJS, GraphCMS, GraphQL, TailwindCSS*.
 
 #### Another thing, I...
 > 👩🏻‍🍳 Enjoy cooking,
