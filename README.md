@@ -4,23 +4,25 @@
 
 > 👩🏻‍💻 I am a *Software Engineer*,
 > 
-> 📌 Living in *Oulu, Finland*,
+> 📌 Living in *Helsinki, Finland*,
 > 
 > 💻 Master student in *Information Processing Science*,
 > 
 > 👩🏻‍🎓 B. Eng. in *Systems Engineering*,
+>
+> 👩🏻‍🎓 M.Sc. in *Information Processing Science*,
 > 
 > 📖 Self-learner.
 
-#### *"Show me your dev stack and I will tell who you are"*
+#### *"Show me your dev stack and I will tell you who you are"*
  
 > 💻 Always enjoy working with: *NodeJS & React*,
 > 
-> ⭐ Also know: *AWS, PostgreSQL, Git, Linux, Figma, Typescript, Bootstrap, Heroku*,
+> ⭐ Also know: *AWS, PostgreSQL, Git, Linux, Figma, Typescript ...*,
 > 
-> ➕ Familiar with these too: *Ruby, Ruby on Rails, Docker, MongoDB*,
+> ➕ Familiar with these too: *Docker, MongoDB, Python, Heroku*,
 > 
-> ✍🏻 Currently learning: *Web design, NextJS, GraphCMS, GraphQL, TailwindCSS*.
+> ✍🏻 Currently learning: *Web design, NextJS, GraphCMS, GraphQL *.
 
 #### Another thing, I...
 > 👩🏻‍🍳 Enjoy cooking,
