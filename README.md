@@ -6,8 +6,6 @@
 > 
 > 📌 Living in *Helsinki, Finland*,
 > 
-> 💻 Master student in *Information Processing Science*,
-> 
 > 👩🏻‍🎓 B. Eng. in *Systems Engineering*,
 >
 > 👩🏻‍🎓 M.Sc. in *Information Processing Science*,
