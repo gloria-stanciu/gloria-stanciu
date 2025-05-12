@@ -1,6 +1,6 @@
 ### Hi there, Gloria here!👋
 
-#### A few things about me to get to know me. 
+#### A few things about me: 
 
 > 👩🏻‍💻 I am a *Software Engineer*,
 > 
@@ -16,11 +16,11 @@
  
 > 💻 Always enjoy working with: *NodeJS & React*,
 > 
-> ⭐ Also know: *AWS, PostgreSQL, Git, Linux, Figma, Typescript ...*,
+> ⭐ Also know: *AWS, SQL, NoSQL, Terraform, Figma, Typescript ...*,
 > 
-> ➕ Familiar with these too: *Docker, MongoDB, Python, Heroku*,
+> ➕ Familiar with these too: *Docker, Python, Golang, Vue*,
 > 
-> ✍🏻 Currently learning: *Web design, NextJS, GraphCMS, GraphQL *.
+> ✍🏻 Constantly trying to improve my skills through small projects.
 
 #### Another thing, I...
 > 👩🏻‍🍳 Enjoy cooking,
